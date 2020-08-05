@@ -1,0 +1,7 @@
+
+obj/
+obj/Debug
+bin/
+
+obj/Debug/backend.csprojAssemblyReference.cache
+obj/Debug/build.force
